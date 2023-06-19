@@ -2,6 +2,8 @@
 
 ## Learning Goals
 
+## This is a information to read about client side routing.
+
 - Understand how client-side routing works and how it differs from server-side
   routing
 - Use the Location and History API in JavaScript
